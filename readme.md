@@ -4,7 +4,7 @@
 
 ## __Visual Studio Code Clone__
 
-### [Link](https://tailwindprojectforlearning.netlify.app/)
+### [Click here](https://tailwindprojectforlearning.netlify.app/)
 
 ### In Small Screen 
 ![small screen](./assets/as/vsc%20m1.png)
